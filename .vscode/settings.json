@@ -1,0 +1,12 @@
+{
+    "eslint.enable": true,
+    "eslint.debug": true,
+    "eslint.validate": [
+        "vue",
+        "html",
+        "javascript",
+        "typescript",
+        "javascriptreact",
+        "typescriptreact"
+    ]
+}
